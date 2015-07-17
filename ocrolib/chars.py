@@ -11,13 +11,14 @@ ascii = digits+letters+symbols
 
 xsymbols = u"""€¢£»«›‹÷©®†‡°∙•◦‣¶§÷¡¿▪▫"""
 german = u"ÄäÖöÜüß"
+oldgerman = u"ſ"
 french = u"ÀàÂâÆæÇçÉéÈèÊêËëÎîÏïÔôŒœÙùÛûÜüŸÿ"
 turkish = u"ĞğŞşıſ"
 greek = u"ΑαΒβΓγΔδΕεΖζΗηΘθΙιΚκΛλΜμΝνΞξΟοΠπΡρΣσςΤτΥυΦφΧχΨψΩω"
 portuguese = u"ÁÃÌÍÒÓÕÚáãìíòóõú"
 telugu = u" ఁంఃఅఆఇఈఉఊఋఌఎఏఐఒఓఔకఖగఘఙచఛజఝఞటఠడఢణతథదధనపఫబభమయరఱలళవశషసహఽాిీుూృౄెేైొోౌ్ౘౙౠౡౢౣ౦౧౨౩౪౫౬౭౮౯"
 
-default = ascii+xsymbols+german+french+portuguese
+default = ascii+xsymbols+german+french+portuguese+oldgerman
 
 european = default+turkish+greek
 
