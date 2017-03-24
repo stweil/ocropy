@@ -12,10 +12,10 @@ from pylab import uint32
 
 common_ligature_table = """
 000 00 La Th ac ai ak al all am an ar as be bo ca ch co ct
-di dr ec ed ee es ff ffi fl fr ft gh gi gr gu hi il
+di dr ec ed ee es ff ffi ffl fl fr ft gh gi gr gu hi il
 in ir is ki li ll ma mi mm ni oc oo pe po re ri rin
 rm rn ro r rs rt ru rv ry se sl so ss st
-ſt
+ſh ſi ſl ſſ ſt
 ta te th ti to tr
 ts tt tu ul um un ur vi wi wn
 a. c. e. m. n. t. z. A. C. E. K. L. M. N. R.
